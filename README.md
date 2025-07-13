@@ -2,12 +2,12 @@
 ein basic Quiz Spiel
 
 ## Funktionen
-Zwei Spielmodi: Einzelspieler und Mehrspieler (bis zu beliebig vielen Spielern) <br>
-Zeitlimits: 15 Sekunden pro Frage, mit Joker-Option bei Zeitüberschreitung  <br>
-Joker-System: Nutzen Sie bis zu 2 Joker pro Spiel, um falsche Antworten zu entfernen  <br> 
-Highscore-System: Getrennte Bestenlisten für 10, 20 und 30 Fragen  <br>
-Punktesystem: Unterschiedliche Punkte je nach Schwierigkeitsgrad (leicht: 1, mittel: 2, schwer: 3 Punkte) <br>
-Einfache Konfiguration: Fragen können einfach über JSON-Dateien hinzugefügt oder bearbeitet werden <br>
+1. Zwei Spielmodi: Einzelspieler und Mehrspieler (bis zu beliebig vielen Spielern) <br>
+2. Zeitlimits: 15 Sekunden pro Frage, mit Joker-Option bei Zeitüberschreitung  <br>
+3. Joker-System: Nutzen Sie bis zu 2 Joker pro Spiel, um falsche Antworten zu entfernen  <br> 
+4. Highscore-System: Getrennte Bestenlisten für 10, 20 und 30 Fragen  <br>
+5. Punktesystem: Unterschiedliche Punkte je nach Schwierigkeitsgrad (leicht: 1, mittel: 2, schwer: 3 Punkte) <br>
+6. Einfache Konfiguration: Fragen können einfach über JSON-Dateien hinzugefügt oder bearbeitet werden <br>
 
 ## Voraussetzungen
 Python 3.x installiert
